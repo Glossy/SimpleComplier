@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/application_edit.png</file>
+        <file>images/application_form_edit.png</file>
+        <file>images/application_go.png</file>
+        <file>images/application_side_expand.png</file>
+        <file>images/bug.png</file>
+        <file>images/document-new.png</file>
+        <file>images/document-open.png</file>
+        <file>images/document-save.png</file>
+        <file>images/document-save-as.png</file>
+        <file>images/editcopy.png</file>
+        <file>images/editcut.png</file>
+        <file>images/edit-find.png</file>
+        <file>images/editpaste.png</file>
+        <file>images/edit-undo.png</file>
+        <file>images/exit.png</file>
+        <file>images/folder.png</file>
+        <file>images/gtk-close.png</file>
+        <file>images/help.png</file>
+        <file>images/page_go.png</file>
+        <file>images/pencil.png</file>
+        <file>images/picture_edit.png</file>
+    </qresource>
+</RCC>
