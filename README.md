@@ -1,5 +1,5 @@
 ﻿# SimpleCompiler
-Compilers Principles' coursework
+Compilers Principles coursework
 
 <p align="center">
   <a href="https://github.com/Glossy">
@@ -82,8 +82,11 @@ Compilers Principles' coursework
 - [Semantic Analysis](https://github.com/Glossy/SimpleComplier/tree/master/src/Parser.h)
     - 语义分析写在了语法分析中，在生成语法树的同时翻译绘制函数图形
 
-
-
+### Note
+---
+- 在最后的语义分析中还存在一定问题，所以在画图时传入了固定的参数值，还待修改
+<br>
+<br>
 
 
 ## Back to [Glossy](https://github.com/Glossy)
